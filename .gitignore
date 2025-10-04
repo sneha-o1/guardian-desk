@@ -1,0 +1,10 @@
+# Virtual environment
+venv/
+# Database file
+db.sqlite3
+# PyCharm/VS Code files
+.vscode/
+*.pyc
+__pycache__/
+# Django specific
+/static_root/
