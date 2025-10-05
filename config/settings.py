@@ -132,3 +132,7 @@ STATICFILES_DIRS = [
 ]
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+# config/settings.py (at the very bottom)
+
+# Final dummy commit to clear the Render deployment queue.
